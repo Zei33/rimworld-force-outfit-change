@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>Forcer ce colon à changer immédiatement de tenue pour correspondre à sa politique vestimentaire assignée.
+
+Cela réveillera les colons endormis et interrompra leur tâche actuelle.</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>Forcer le changement de tenue
+
+Cliquez sur un bouton pour faire changer immédiatement la tenue d'un colon.
+
+Vous pouvez également cliquer et faire glisser vers le bas la colonne pour appliquer la commande à plusieurs colons à la fois.</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0} a reçu l'ordre de changer de tenue immédiatement.</ForceOutfitChange_Forced>
+  
+</LanguageData>

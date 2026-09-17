@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>Zwinge diesen Kolonisten, sofort seine Kleidung zu wechseln, um seiner zugewiesenen Kleidungsrichtlinie zu entsprechen.
+
+Dies wird schlafende Kolonisten aufwecken und ihre aktuelle Aufgabe unterbrechen.</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>Kleidungswechsel erzwingen
+
+Klicke auf einen Knopf, um einen Kolonisten sofort seine Kleidung wechseln zu lassen.
+
+Du kannst auch klicken und die Spalte nach unten ziehen, um den Befehl auf mehrere Kolonisten gleichzeitig anzuwenden.</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0} wurde befohlen, sofort die Kleidung zu wechseln.</ForceOutfitChange_Forced>
+  
+</LanguageData>

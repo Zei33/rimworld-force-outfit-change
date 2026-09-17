@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBD}") = "ModTemplate", "ModTemplate.csproj", "{47823CB7-BEB2-87E5-660E-A36806F8F2F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceOutfitChange", "ForceOutfitChange.csproj", "{7F4B0A4F-2744-4A19-BD4F-BB456AD9F5B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +10,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{47823CB7-BEB2-87E5-660E-A36806F8F2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47823CB7-BEB2-87E5-660E-A36806F8F2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47823CB7-BEB2-87E5-660E-A36806F8F2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47823CB7-BEB2-87E5-660E-A36806F8F2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4B0A4F-2744-4A19-BD4F-BB456AD9F5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4B0A4F-2744-4A19-BD4F-BB456AD9F5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4B0A4F-2744-4A19-BD4F-BB456AD9F5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4B0A4F-2744-4A19-BD4F-BB456AD9F5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2641FB84-50A6-4DEF-A0FD-BB0A736BF6A9}
+		SolutionGuid = {0F1FDDBD-6D51-4D89-8CB9-08102EA559BC}
 	EndGlobalSection
 EndGlobal

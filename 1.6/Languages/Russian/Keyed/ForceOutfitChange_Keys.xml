@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>Заставить этого колониста немедленно сменить одежду в соответствии с назначенной политикой одежды.
+
+Это разбудит спящих колонистов и прервёт их текущую задачу.</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>Принудительная смена одежды
+
+Нажмите кнопку, чтобы колонист немедленно сменил одежду.
+
+Вы также можете нажать и перетащить вниз по столбцу, чтобы применить команду к нескольким колонистам одновременно.</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0} получил приказ немедленно сменить одежду.</ForceOutfitChange_Forced>
+  
+</LanguageData>

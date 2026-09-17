@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>この入植者に割り当てられた服装ポリシーに合わせて、すぐに服装を変更させます。
+
+これにより、眠っている入植者が起き、現在の作業が中断されます。</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>服装変更を強制
+
+ボタンをクリックして、入植者にすぐに服装を変更させます。
+
+クリックして列を下にドラッグすることで、複数の入植者に同時にコマンドを適用できます。</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0}はすぐに服装を変更するよう命じられました。</ForceOutfitChange_Forced>
+  
+</LanguageData>

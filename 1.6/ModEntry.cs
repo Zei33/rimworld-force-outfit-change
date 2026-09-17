@@ -1,13 +1,14 @@
 using HarmonyLib;
 using Verse;
+using ForceOutfitChange.Core;
 
-namespace ModTemplate
+namespace ForceOutfitChange
 {
     /// <summary>
-    /// Main mod entry point for the Mod Template mod.
-    /// Handles mod initialization and Harmony patching for mod template.
+    /// Main mod entry point for the Force Outfit Change mod.
+    /// Handles mod initialization and Harmony patching for Force Outfit Change.
     /// </summary>
-    public class ModTemplateMod : Mod
+    public class ForceOutfitChangeMod : Mod
     {   
         /// <summary>
         /// The Harmony instance used for applying patches to the base game.
@@ -15,16 +16,19 @@ namespace ModTemplate
         private readonly Harmony harmony;
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="ModTemplateMod"/> class.
+        /// Initializes a new instance of the <see cref="ForceOutfitChangeMod"/> class.
         /// Sets up Harmony patches and logs successful initialization.
         /// </summary>
         /// <param name="pack">The mod content pack containing mod information and assets.</param>
-        public ModTemplateMod(ModContentPack pack) : base(pack)
+        public ForceOutfitChangeMod(ModContentPack pack) : base(pack)
         {
-            harmony = new Harmony("com.zei33.modtemplate");
+            harmony = new Harmony("com.zei33.forceoutfitchange");
             harmony.PatchAll();
 
-            Log.Message("[Mod Template] Loaded version 1.0 successfully.");
+            // Clear any stale markers from previous sessions
+            ForceOutfitChangeMarker.ClearAllMarkers();
+
+            Log.Message("[Force Outfit Change] Loaded successfully with Harmony patches applied.");
         }
     }
 }

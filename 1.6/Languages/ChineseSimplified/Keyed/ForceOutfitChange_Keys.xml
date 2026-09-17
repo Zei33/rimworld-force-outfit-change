@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>强制这个殖民者立即更换服装以匹配其指定的服装政策。
+
+这将唤醒睡眠中的殖民者并中断其当前任务。</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>强制更换服装
+
+点击按钮使殖民者立即更换服装。
+
+您也可以点击并向下拖动列，以同时对多个殖民者应用命令。</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0}被命令立即更换服装。</ForceOutfitChange_Forced>
+  
+</LanguageData>

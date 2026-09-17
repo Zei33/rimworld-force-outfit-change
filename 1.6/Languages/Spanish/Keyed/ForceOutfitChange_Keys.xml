@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>Forzar a este colono a cambiar inmediatamente su ropa para que coincida con su política de vestimenta asignada.
+
+Esto despertará a los colonos dormidos e interrumpirá su tarea actual.</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>Forzar cambio de ropa
+
+Haz clic en un botón para hacer que un colono cambie su ropa inmediatamente.
+
+También puedes hacer clic y arrastrar hacia abajo en la columna para aplicar el comando a varios colonos a la vez.</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0} recibió la orden de cambiar de ropa inmediatamente.</ForceOutfitChange_Forced>
+  
+</LanguageData>

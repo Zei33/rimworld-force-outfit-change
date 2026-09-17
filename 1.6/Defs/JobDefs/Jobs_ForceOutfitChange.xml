@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <JobDef>
+    <defName>ForceRemoveApparel</defName>
+    <driverClass>ForceOutfitChange.Jobs.JobDriver_ForceRemoveApparel</driverClass>
+    <reportString>removing apparel.</reportString>
+    <suspendable>false</suspendable>
+    <alwaysShowWeapon>false</alwaysShowWeapon>
+    <neverShowWeapon>true</neverShowWeapon>
+  </JobDef>
+  
+  <JobDef>
+    <defName>ForceWear</defName>
+    <driverClass>ForceOutfitChange.Jobs.JobDriver_ForceWear</driverClass>
+    <reportString>changing outfit.</reportString>
+    <suspendable>false</suspendable>
+    <alwaysShowWeapon>false</alwaysShowWeapon>
+    <neverShowWeapon>true</neverShowWeapon>
+  </JobDef>
+  
+</Defs>

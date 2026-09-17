@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <PawnColumnDef>
+    <defName>ForceOutfitChangeButton</defName>
+    <workerClass>ForceOutfitChange.Core.PawnColumnWorker_ForceOutfitChange</workerClass>
+    <sortable>false</sortable>
+    <paintable>true</paintable>
+    <ignoreWhenCalculatingOptimalTableSize>false</ignoreWhenCalculatingOptimalTableSize>
+  </PawnColumnDef>
+  
+</Defs>

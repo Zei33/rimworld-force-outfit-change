@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Mod Template</name>
-  <author>Zei33</author>
-  <modVersion>1.0.0</modVersion>
-  <packageId>Zei33.ModTemplate</packageId>
-  <description>A template for creating Rimworld mods.</description>
-  <supportedVersions>
-    <li>1.6</li>
-  </supportedVersions>
-  <modDependencies>
-    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
-      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-    </li>
-  </modDependencies>
-  <loadAfter />
-  <incompatibleWith />
+    <name>Force Outfit Change</name>
+    <author>ForceOutfitChange Mod Team</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <packageId>ForceOutfitChange.ForceOutfitChange</packageId>
+    <description>Adds a button to the Assign tab that allows you to force colonists to immediately change their outfit to match their assigned apparel policy.
+
+Features:
+- Force outfit change button next to each colonist's apparel policy in the Assign tab
+- Wakes sleeping colonists and interrupts their current task
+- Click and drag functionality to apply to multiple colonists at once
+- Useful for quickly switching to battle gear when raids arrive
+
+This mod is designed to be compatible with other mods and uses Harmony for minimal conflicts.</description>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
 </ModMetaData>

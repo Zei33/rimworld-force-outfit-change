@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- UI Strings -->
+  <ForceOutfitChange_ButtonTooltip>Force this colonist to immediately change their outfit to match their assigned apparel policy.\n\nThis will wake sleeping colonists and interrupt their current task.</ForceOutfitChange_ButtonTooltip>
+  <ForceOutfitChange_HeaderTooltip>Force outfit change\n\nClick a button to make a colonist immediately change their outfit.\n\nYou can also click and drag down the column to apply the command to multiple colonists at once.</ForceOutfitChange_HeaderTooltip>
+  
+  <!-- Messages -->
+  <ForceOutfitChange_Forced>{0} was ordered to change outfit immediately.</ForceOutfitChange_Forced>
+  
+</LanguageData>
